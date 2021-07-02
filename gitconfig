@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = philipp.heitmann94@gmail.com
+	name = Philipp Heitmann
